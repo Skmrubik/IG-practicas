@@ -1,0 +1,38 @@
+Nombre: Jorge Castillo Matas
+
+Ejecuta el makefile desde la carpeta de la práctica. Distinguiremos tres tipos de teclas:
+	
+TECLAS PARA MODIFICAR LA FORMA DEL OBJETO:
+...... Tecla 3 = Punta un objeto jerarquico (Ventilador, por defecto)
+...... Tecla 1 = Pinta un fichero PLY sobre los ejes x,y,z
+...... Tecla 2 = Pinta un objeto por revolucion (en el eje Y) dado un fichero PLY sobre los ejes x,y,z
+________________________________________________________________________________________
+
+TECLAS PARA MODIFICAR EL TIPO DE DIBUJADO:
+...... Tecla P = Cambia el tipo a Vertices
+...... Tecla L = Cambia el tipo a Alambres
+...... Tecla S = Cambia el tipo a Solido 
+...... Tecla A = Cambia el tipo a Ajedrez
+________________________________________________________________________________________
+
+TECLAS PARA MODIFICAR LOS GRADOS DE LIBERTAD DEL OBJETO JERARQUICO
+...... Tecla Z/X = Grado de libertad 1
+...... Tecla C/V = Grado de libertad 1
+...... Tecla B/N = Grado de libertad 1
+________________________________________________________________________________________
+
+TECLAS PARA MODIFICAR LA VISTA DE LA CAMARA:
+...... Flechas = mover la camara
+...... F1 = acercar camara
+...... F2 = alejar camara
+________________________________________________________________________________________
+
+TECLAS PARA CAMBIAR ENTRE LOS 4 FICHEROS PLY QUE HAY:
+...... 6 = perfil.ply
+...... 7 = beethoven.ply
+...... 8 = ant.ply
+...... 9 = big_dodge.ply
+________________________________________________________________________________________
+
+TECLAS PARA SALIR DE LA VENTANA:
+...... Tecla Q = Salir de la ventana
